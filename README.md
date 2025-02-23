@@ -1,2 +1,4 @@
-# hugo
-Minimal Docker image for Hugo
+Hugo
+===
+
+Minimal Docker image for [Hugo](https://gohugo.io/).
